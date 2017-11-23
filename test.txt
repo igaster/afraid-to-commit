@@ -1,5 +1,5 @@
 line1
-line2 master
-line3
+line2 branch typing + master
+line3 fixing conflict free!
 line4
 master I am!
